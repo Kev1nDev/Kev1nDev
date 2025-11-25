@@ -1,24 +1,33 @@
-# ¡Hola! 👋 Soy Kevin
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+nuevas+cosas" alt="Typing SVG" />
-</div>
+# Kevin Romero
+**Desarrollador Full Stack**
 
 ---
 
-## 🚀 Sobre mí
+## Perfil Profesional
 
-- 🔭 **Actualmente trabajando en**: Proyectos de desarrollo web y aplicaciones móviles
-- 🌱 **Estoy aprendiendo**: Nuevas tecnologías y mejores prácticas de desarrollo
-- 👯 **Busco colaborar en**: Proyectos open source y aplicaciones innovadoras
-- 🤔 **Busco ayuda con**: Optimización de rendimiento y arquitectura de software
-- 💬 **Pregúntame sobre**: HTML, CSS, JavaScript, React, Python, MySQL, Git, y diseño con Figma
-- 📫 **Cómo contactarme**: [Envíame un mensaje](mailto:tu-email@ejemplo.com)
-- ⚡ **Dato curioso**: Me encanta resolver problemas complejos con código elegante
+Desarrollador Full Stack Junior y estudiante de último trimestre de Ingeniería en Informática. Me apasiona la tecnología y el aprendizaje continuo, con un enfoque actual en el desarrollo web y aplicaciones móviles. Estoy en constante formación para perfeccionar mis habilidades y busco oportunidades para colaborar en proyectos de código abierto y soluciones innovadoras. Comprometido con escribir código elegante y resolver problemas complejos.
 
-## 🛠️ Tecnologías y Herramientas
+- **Enfoque Actual**: Desarrollo web y aplicaciones móviles.
+- **Aprendizaje**: Nuevas tecnologías y mejores prácticas de desarrollo.
+- **Colaboración**: Proyectos de código abierto y aplicaciones innovadoras.
+- **Intereses**: Optimización de rendimiento y arquitectura de software.
+- **Experiencia**: HTML, CSS, JavaScript, React, Python, MySQL, PostgreSQL, AWS, Firebase, Git.
+- **Contacto**: [Envíame un correo](mailto:insaniterecovery67@gmail.com)
+
+## Conecta Conmigo
 
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-romero-10290228b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DevKev1n)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevinjsxr/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kev1nDev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:insaniterecovery67@gmail.com)
+
+</div>
+
+
+## Habilidades Técnicas
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,56 +38,67 @@
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Base de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud y Servicios
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
+## Ecosistema de Desarrollo
 
-## 📊 Estadísticas de GitHub
+- **Sistema Operativo**: Linux Debian (Trixie)
+- **Editores de Código**: Visual Studio Code, Google Antigravity, Android Studio *(en aprendizaje)*
+- **Terminal**: Bash
+- **Asistentes AI & Calidad**: Amazon Q, Amazon CodeGuru
+- **Gestión de Versiones**: GitKraken, GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kev1nDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kev1nDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
-## 🏆 Logros
+## Metas Profesionales 2025
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kev1nDev&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophy" />
-</div>
+- **Dominio de React**: Perfeccionar habilidades en el ecosistema de React para la creación de interfaces frontend modernas, escalables y de alto rendimiento.
+- **Certificación en AWS**: Adquirir conocimientos profundos en servicios en la nube de Amazon Web Services para el despliegue y gestión de aplicaciones.
+- **Contribución Open Source**: Participar activamente en proyectos de código abierto, colaborando con la comunidad global y mejorando la calidad del software libre.
+- **Cultura DevOps**: Fortalecer competencias en metodologías y herramientas DevOps para optimizar los ciclos de desarrollo e integración continua.
 
-## 📈 Actividad de GitHub
+## Proyectos Destacados
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kev1nDev&theme=tokyo-night&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
-</div>
+### Aplicación Móvil de Accesibilidad con IA
 
-## 🎯 Metas 2024
+Desarrollo de una solución móvil que utiliza inteligencia artificial para describir el entorno en tiempo real, diseñada para mejorar la autonomía de personas con discapacidad visual. Proyecto de tesis de grado en Ingeniería en Informática.
 
-- [ ] Dominar Graphite para gestión de repositorios
-- [ ] Contribuir más a proyectos open source
-- [ ] Aprender nuevas tecnologías como Rust o Go
-- [ ] Mejorar mis habilidades en DevOps
-- [ ] Crear un blog técnico
+**Stack Tecnológico**: Kotlin, Android, Computer Vision, Machine Learning
 
-## 💡 Proyectos Destacados
-
-- 🔥 **Proyecto 1**: [Descripción breve del proyecto]
-- 🚀 **Proyecto 2**: [Descripción breve del proyecto]
-- 💎 **Proyecto 3**: [Descripción breve del proyecto]
+**Estado**: En desarrollo
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kev1nDev&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
+### TOMOTOMO - E-Commerce de Manga y Cómics
 
-<div align="center">
-  <strong>¡Gracias por visitar mi perfil! 😊</strong>
-</div>
+Plataforma de comercio electrónico especializada en la venta de manga y cómics, desarrollada con una arquitectura moderna basada en componentes. Implementa funcionalidades completas de carrito de compras, búsqueda en tiempo real, filtrado por categorías y diseño responsivo optimizado para múltiples dispositivos.
+
+**Stack Tecnológico**: React, Vite, React Router, Framer Motion, Context API
+
+**Estado**: Desplegado | [Ver Demo](https://kev1ndev.github.io/tomotomo-react/)
+
+---
+
+### BakeByCelia - Sitio Web de Pastelería
+
+Sitio web moderno y elegante para una pastelería artesanal, desarrollado con las últimas tecnologías de Next.js. Presenta diseño responsivo con tema personalizado, animaciones fluidas y optimización SEO completa para maximizar la presencia digital del negocio.
+
+**Stack Tecnológico**: Next.js 15, React 19, TypeScript, Tailwind CSS
+
+**Estado**: En desarrollo | [Ver Repositorio](https://github.com/Kev1nDev/BakeByCelia)
+
+---
+
+Gracias por visitar mi perfil.
