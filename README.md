@@ -68,7 +68,13 @@ Ingeniero en Informática (2026) enfocado en **cloud y backend**: diseño, despl
 
 ### NimbusStream - Infraestructura Cloud de Gaming con GPU Headless en AWS
 
-Infraestructura completa de cloud gaming en AWS construida con Terraform (~33 recursos): VPC multi-AZ propia con 3 subnets en 2 zonas de disponibilidad, instancia EC2 g6.xlarge con GPU NVIDIA L4, tunneling WireGuard como único punto de entrada, streaming headless a 720p/60 FPS, gamepad virtual con ViGEmBus y stack de LLM local con Ollama. Administración 100% sin SSH (AWS SSM Session Manager).
+Proyecto personal insignia: infraestructura completa de cloud gaming en AWS construida con **Terraform** (~33 recursos) y aprovisionada y operada de punta a punta por mí.
+
+- **VPC multi-AZ propia** (10.0.0.0/16) con 3 subnets en 2 zonas de disponibilidad, Internet Gateway, route tables y security groups de mínimos privilegios separando gaming y VPN.
+- Instancia EC2 **g6.xlarge (NVIDIA L4 24 GB)** con render headless via Virtual Display Driver, streaming a **720p/60 FPS** y gamepad virtual (ViGEmBus).
+- **Túnel WireGuard** como único puerto público: RDP y streaming solo accesibles por VPN; administración 100% sin SSH via **AWS SSM** e IMDSv2 obligatorio.
+- Stack de **IA local con Ollama** sirviendo modelos Llama en la GPU para inferencia privada.
+- Optimización de costos: sin NAT gateway, ciclo de vida stop/start y limpieza de recursos huérfanos.
 
 **Stack Tecnológico**: Terraform, AWS (VPC, EC2, EBS, KMS, SSM), WireGuard, PowerShell, Ollama
 
@@ -76,11 +82,16 @@ Infraestructura completa de cloud gaming en AWS construida con Terraform (~33 re
 
 ---
 
-### Aplicación Móvil de Accesibilidad con IA
+### Aplicación Móvil de Accesibilidad con IA (Tesis de Ingeniería)
 
-Solución móvil que utiliza inteligencia artificial para describir el entorno en tiempo real, diseñada para mejorar la autonomía de personas con discapacidad visual. Proyecto de tesis de grado en Ingeniería en Informática (completado).
+Aplicación móvil que asiste a personas con discapacidad visual describiendo el entorno en tiempo real. Proyecto de tesis de grado en Ingeniería en Informática (completado).
 
-**Stack Tecnológico**: Kotlin, Android, Computer Vision, Machine Learning
+- App móvil **React Native + Expo + TypeScript** con cámara en vivo, retornos por **voz (TTS)** y vibración de alerta.
+- **Backend Node.js/Express** con endpoint `POST /describe` que procesa la imagen capturada (base64, redimensionada y comprimida) e invoca el modelo visión **Llama 3.2 Vision (11B)** vía **Groq**, con medición de latencia end-to-end y fallback degradado sin API key.
+- Módulos: descripción breve/extendida del entorno, **camino guiado con detección de obstáculos (izquierda/centro/derecha)** via análisis periódico de cámara, y lecturas asistidas.
+- Descripción estructurada: resumen, detalle, puntos de interés, incertidumbres y confianza, con **contexto GPS** y modos `balanced | fast | accurate`.
+
+**Stack Tecnológico**: React Native, Expo, TypeScript, Node.js, Express, Llama 3.2 Vision (Groq), Computer Vision, Machine Learning
 
 **Estado**: Completado | [Ver Repositorio](https://github.com/Kev1nDev/Tesis-2025)
 
