@@ -78,11 +78,11 @@ Infraestructura completa de cloud gaming en AWS construida con Terraform (~33 re
 
 ### Aplicación Móvil de Accesibilidad con IA
 
-Solución móvil que utiliza inteligencia artificial para describir el entorno en tiempo real, diseñada para mejorar la autonomía de personas con discapacidad visual. Proyecto de tesis de grado en Ingeniería en Informática.
+Solución móvil que utiliza inteligencia artificial para describir el entorno en tiempo real, diseñada para mejorar la autonomía de personas con discapacidad visual. Proyecto de tesis de grado en Ingeniería en Informática (completado).
 
 **Stack Tecnológico**: Kotlin, Android, Computer Vision, Machine Learning
 
-**Estado**: En desarrollo
+**Estado**: Completado | [Ver Repositorio](https://github.com/Kev1nDev/Tesis-2025)
 
 ---
 
